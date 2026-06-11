@@ -1,8 +1,7 @@
-You can use the following content in your GitHub repository, project report, or presentation.
-WEEK 1
-Project Title
 
-Password Strength Checker – A Cybersecurity Tool for Password Security Assessment
+WEEK 1
+
+Project Title: Password Strength Checker – A Cybersecurity Tool for Password Security Assessment
 
 Project Description
 
