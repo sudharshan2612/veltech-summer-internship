@@ -8054,4 +8054,4 @@ export default defineConfig({
 });
 
 ```
-web link: https://lovable.dev/projects/b8835435-4975-4058-a0c9-edcb2034a192
+web link: https://safe-digital-guide.lovable.app
